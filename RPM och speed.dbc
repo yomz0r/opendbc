@@ -82,7 +82,7 @@ BO_ 1096 NEW_MSG_15: 8 XXX
 BO_ 1112 SPD_AND_STUFF: 8 XXX
  SG_ speedo_safe : 55|16@0+ (0.01,0) [0|65535] "" XXX
  SG_ speedo_actual : 39|16@0+ (0.01,0) [0|65535] "kph" XXX
- SG_ RPM_perhaps : 23|16@0+ (0.16,0) [0|65535] "RPM" XXX
+ SG_ RPM_perhaps : 23|16@0+ (1.5,) [0|65535] "RPM" XXX
 
 BO_ 1120 NEW_MSG_16: 8 XXX
  SG_ NEW_SIGNAL_1 : 55|16@0+ (1,0) [0|65535] "" XXX
